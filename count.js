@@ -3,7 +3,7 @@ const readline = require("readline")
 let i = 1
 
 const main = async () => {
-  const stream = fs.createReadStream("test")
+  const stream = fs.createReadStream("day-1")
 
   const rl = readline.createInterface({
     input: stream,
@@ -14,7 +14,7 @@ const main = async () => {
     if (line.match(/\s-\s/)) i++
   }
 
-  console.log(`Vocab: ${i}/500 words`)
+  console.log(`Vocab: ${i}/715 words`)
 }
 
 main()
