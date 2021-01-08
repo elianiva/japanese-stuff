@@ -1,15 +1,21 @@
+------- without listening to the audio/my own version
 A.I
 １．見ない       （みない）           -> to not see
 ２．開けない     （あけない）         -> to not open
-３．住めない     （すめない）         -> to not live
-４．書けない     （かけない）         -> to not write
-５．履けない     （はけない）         -> to not wear (pants/etc)
-６．始めない     （はじめない）       -> to not begin
+３．住まない     （すまない）         -> to not live
+４．書かない     （かけない）         -> to not write/don't write
+５．履かない     （はかない）         -> to not wear (pants/etc)
+６．始めない     （はじめない）       -> to not begin/don't start
 ７．作らない     （つくらない）       -> to not make
-８．選択すらない （せんたくすらない） -> to not wash/laundry
-９．洗えない     （あらえない）       -> to not wash
+８．選択ない     （せんたくらない）   -> to not choose
+９．洗いない     （あらいない）       -> to not wash
 １０．来ない     （こない）           -> to not come
-１１．ない       （ない）             -> to not exists
+１１．忘れない   （ない）             -> to not forget
+１２．ない       （ない）             -> to not exists
+１３．思いない   （おもいない）       -> to not think
+１４．持っていかない （もっていかない）-> to not bring
+１５．入らない    （はいらない）      -> to not enter
+１６．帰らない    （かえらない）      -> to not return
 
 B.I
 １．有名じゃない （ゆうめいじゃない） -> not famous
@@ -40,3 +46,12 @@ A.II
 １０．ううん、カラオケに行かない
 １１．うん、部屋を掃除する          -> そうじ       -> to clean
 １２．うん、洗濯する                -> せんたく     -> to wash
+
+
+------- listening to the audio
+A.I
+１．見ない
+２．開けない
+３．住まない
+４．書けない
+５．はかない
